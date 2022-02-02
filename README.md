@@ -1,12 +1,14 @@
-# Test-solutions
+# Test-answers
 
-This is all the materials and code done by Yunzi XIAO for test.
+This is all the repots, materials and code done by Yunzhi XIAO for test.
 
 ## File Question 1 
-A machine learning model written in Python.
+1. The report.
+2. The .py document of a machine learning model written in Python.
 
 ## File Question 2
-The main function and two sub function written in MATLAB.
+1. the report.
+2. The main function and two sub function written in MATLAB.
 
 ## File Question 3
-The PDF file for question 3.
+1. The report.
